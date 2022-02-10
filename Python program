@@ -1,0 +1,13 @@
+echo "# python-positive-or-negative" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gopi14356/python-positive-or-negative.git
+git push -u origin mainecho "# python-positive-or-negative" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gopi14356/python-positive-or-negative.git
+git push -u origin main
